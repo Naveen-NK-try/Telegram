@@ -1,5 +1,5 @@
-python-telegram-bot==20.7
-schedule==1.2.2
-flask
-telegram
-python-dotenv
+Flask==2.1.1
+schedule==1.1.0
+python-telegram-bot==20.1
+gunicorn==20.1.0
+
